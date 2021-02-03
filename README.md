@@ -2,6 +2,7 @@
 
 ## Data availability
 The simulated data are available at https://zenodo.org/record/4475052#.YBl4RHdKg8M
+
 The TF ChIP-seq and ChIP-nexus data are identical to what was used in Shrikumar et al. 2017 and Avsec et al. 2020, respectively. These datasets are repeated in the zenodo link above, but can also be downloaded from the server of the lab that hosts the data (i.e. mitra.stanford.edu). FullBPNetExampleNotebook.ipynb and FullBinaryExampleNotebook.ipynb are Colab notebooks illustrating how to download the raw data from mitra.stanford.edu and train a model on the signal profile prediction task and the TF Binary prediction task.
 
 ## Important Notes 
