@@ -1,6 +1,6 @@
 # Benchmarking Reverse-Complement Strategies for Deep Learning Models in Genomics 
 
-FullBPNetExampleNotebook.ipynb and FullBinaryExampleNotebook.ipynb are Colab notebooks that download the raw data and train a model on the signal profile prediction task and the TF Binary prediction task. These tasks use data published in previous works, which is why the data are downloaded directly from the server of the lab that hosts this data (i.e. mitra.stanford.edu).
+FullBPNetExampleNotebook.ipynb and FullBinaryExampleNotebook.ipynb are Colab notebooks that download the raw data and train a model on the signal profile prediction task and the TF Binary prediction task. **These tasks use data published in previous works, which is why the data are downloaded from the server of the lab that hosts it (i.e. mitra.stanford.edu).**
 
 ## Important Notes 
 * Keras 2.2.4 was used to train all models. Keras 2.3 has a bug where the validation set loss is not computed correctly. More information here: https://github.com/keras-team/keras/issues/13389
